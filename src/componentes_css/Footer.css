@@ -1,0 +1,7 @@
+footer{
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(rgb(118, 118, 252) 20%, rgb(74, 74, 250) );
+    position: fixed;
+    bottom: 0;
+}
